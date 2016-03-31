@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[ShareWorthy]]></title>
         <description><![CDATA[ShareWorthy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shareworthy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 19:08:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Mar 2016 19:09:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shareworthy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df9f7c77-301a-48e6-b7ea-51173a8ffddd.jpg">]]></description>
-            <link>undefinedspring-is-in-the-air-and-so-is-the-puppy/index.html</link>
+            <link>https://thegrid.ai/shareworthy/spring-is-in-the-air-and-so-is-the-puppy/index.html</link>
             <guid isPermaLink="false">ba452eca-5179-465a-9e37-bef349b50676</guid>
             <pubDate>Thu, 31 Mar 2016 19:08:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eggstatic - stroboscopic patterns for Easter eggs]]></title>
+            <description><![CDATA[<article><h1>Eggstatic - stroboscopic patterns for Easter eggs</h1><p>Various patterns are generated in Matlab using mathematical equations similar to ones describing Spirograph (or harmonograph) and Phyllotaxis. The patterns are calculated in such a way that when rotated under a stroboscopic light of suitable frequency or when recorded by a camera, they start to animate.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ec1c45ee1494e808e8db76ac940db5d0f34b5f6.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=JfajQ4_hSN0</link>
+            <guid isPermaLink="false">8204a910-0007-4e55-b51e-17b87bdcebaa</guid>
+            <pubDate>Thu, 31 Mar 2016 19:09:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
