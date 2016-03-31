@@ -1,0 +1,28 @@
+name: ShareWorthy
+favicon: null
+layout_spectrum: 0.8192603029310703
+typography_spectrum: 0.41637541726231575
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.3147866160143167
+  lightness: 0.48183417273685336
+  saturation: 0.4234804359730333
+  rhythmicContrast: 0.42598213464953005
+purpose: []
